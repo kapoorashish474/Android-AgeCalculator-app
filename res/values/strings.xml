@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="todayDateLabel">Today\'s Date</string>
+    <string name="dobLabel">Date of Birth</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="clearButton">Clear</string>
+    <string name="ageLabel">Age</string>
+    <string name="yearslabel">Years</string>
+    <string name="monthsLabel">Months</string>
+    <string name="daysLabel">Days</string>
+    <string name="detailInformationLabel">Detail Information</string>
+    <string name="nextBirthdayLabel">Next Birthday</string>
+    <string name="totalYearsLabel">Total Years</string>
+    <string name="totalMonthsLabel">Total Months</string>
+    <string name="totalWeeksLabel">Total Weeks</string>
+    <string name="totalDaysLabel">Total Days</string>
+    <string name="totalHoursLabel">Total Hours</string>
+    <string name="totalMinutesLabel">Total Minutes</string>
+    <string name="totalSecondsLabel">Total Seconds</string>
+    <string name="dt_hint">dd / mm / yyyy</string>
+    <string name="default_text">00</string>
+
+</resources>
